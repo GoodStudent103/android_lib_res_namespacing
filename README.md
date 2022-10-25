@@ -1,0 +1,1 @@
+# android_lib_res_namespacing
